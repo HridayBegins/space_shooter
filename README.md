@@ -16,6 +16,7 @@ A retro arcade space shooter game built with Python, Pygame and Pyinstaller.
 ## Built With
 - Python
 - Pygame
+- Pyinstaller
 
 ## Features
 - Collision detection
