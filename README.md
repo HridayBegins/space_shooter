@@ -1,11 +1,6 @@
 # Space Shooter 🚀
 
-A retro arcade space shooter game built with Python and Pygame.
-
-## ▶️ Download & Play
-**[⬇️ Download space.exe](https://github.com/HridayBegins/space_shooter/releases/download/v1.0/space.exe)**
-
-> Windows only. Just download and run — no installation needed!
+A retro arcade space shooter game built with Python, Pygame and Pyinstaller.
 
 ## Controls
 | Key | Action |
