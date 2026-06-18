@@ -17,8 +17,8 @@ Controls
 1. Install Python
 2. Install dependency:
 pip install pygame
-pip install pyinstaller
-3. Run the game:
+3.pip install pyinstaller
+4. Run the game:
 python main.py
 
   Built With
